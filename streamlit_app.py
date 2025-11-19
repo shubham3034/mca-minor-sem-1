@@ -50,7 +50,7 @@ st.set_page_config(page_title="Pollution Impact Analyzer", page_icon="🌿")
 st.markdown(nature_css, unsafe_allow_html=True)
 
 # ----------- App Content -----------
-st.title("🌿 Pollution Impact Analyzer")
+st.title("🌿 Pollution Impact")
 st.write("### A nature-inspired tool to understand how pollution affects plants and animals.")
 
 st.write("---")
